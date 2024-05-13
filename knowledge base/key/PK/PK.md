@@ -10,3 +10,5 @@ In practical, for easier to develop, easier to maintain and better time performa
 
 ## See Also
 candidate key
+
+https://github.com/40843245/mariadb/blob/main/knowledge%20base/key/candidate%20key/candidate_key.md
