@@ -9,3 +9,7 @@ The candidate key must satisfy the following properties.
     More exactly to say but harder to understand, it is only allowed to have distinct values among the values in the field that is marked as candidate key.
 
     
+## See Also
+PK
+
+https://github.com/40843245/mariadb/blob/main/knowledge%20base/key/PK/PK.md
