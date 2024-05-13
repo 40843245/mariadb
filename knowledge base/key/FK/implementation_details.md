@@ -17,10 +17,14 @@ When I checked at third time, I accidentally solve all of them. In this event, I
        
     2. Before make a link about a FK references to a PK, please check there are duplicate values in primary key (in PK table).
     Because if one tries to make a link about a FK to a PK that has duplicate values, then the property of PK will be violated.
+    Thus, one has to delete duplicate row (if exists) before make a link about a FK to a PK.
+    
     For more details about PK's property, see my notes at Github.
-
+    
 ## See Also
-PK's property
+PK
+
+https://github.com/40843245/mariadb/blob/main/knowledge%20base/key/PK/PK.md
     
     
     
